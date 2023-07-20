@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/badrisinghoo7/Medical-Api#readme",
   "dependencies": {
-    "json": "^11.0.0",
-    "server": "^1.0.38"
+    "json-server": "0.17.3"
   }
 }
