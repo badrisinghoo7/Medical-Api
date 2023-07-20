@@ -1,0 +1,256 @@
+{
+  "login": [
+    {
+      "username": "dummy",
+      "email": "dummy@gmail.com"
+    }
+  ],
+  "signup": [
+    {
+      "username": "dummy",
+      "email": "dummy@gmail.com"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "what are the benefits of daily workout",
+      "answer": "mind and body stays happy"
+    }
+  ],
+  "asked_questions": [
+    {
+      "asked_by_whom": "dummy",
+      "his/her_email": "dummy@gmail.com",
+      "asked_question": "what are the benefits of eating healthy food"
+    }
+  ],
+  "why_choose": [
+    {
+      "id": 1,
+      "heading": "Premium facilities",
+      "description": "Guarantee of the best means and hospital centers distributed by the Madrid Community"
+    }
+  ],
+  "what_we_treat": [
+    {
+      "id": 1,
+      "problem": "Spinal Infection",
+      "days_needed": 3,
+      "image": "https:abc.jpeg",
+      "process": [
+        "Firstly a surgery",
+        "Two days of Stayback in the hospital",
+        "Checking for any side_effects",
+        "Treatment of side_effects if any",
+        "Final curing of the patient by providing proper medicines",
+        "Handling an exercise book for future reference"
+      ],
+      "avg_cost": 29,
+      "description_of_disease": "Spinal Infection is a disease in which the patient starts loosing back_bone power and would not be able to stand straight even for 5 minutes",
+      "how_many_percent_people_struggling": 50
+    }
+  ],
+  "treatment_techniques": [
+    {
+      "id": 1,
+      "technology": "Reconstructive Surgery Endoscopy",
+      "image": "https:abc.jpeg",
+      "used_in_which": ["Spinal Injury", "Heart Attack"],
+      "technology_description": "A very powerful but dangerous machine , needs to be used by only professionals having experience more than 10 years",
+      "avg_cost": 5000,
+      "features": [
+        "Can Cure the disease in one go",
+        "Person struggling with back pain can positively be treated permanently from this treatment machine"
+      ],
+      "number_of_hospitals_having_this": 5
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "category": "surgery",
+      "image": "https:abc.jpeg",
+      "title": "how do you prepare for minimally invasive spine surgery?",
+      "description": "In this post we will talk about how to properly prepare for a spinal intervention",
+      "side_description": "some extra information about this title"
+    },
+    {
+      "id": 2,
+      "image": "https:abc.jpeg",
+      "category": "disease",
+      "title": "how do you prepare for minimally invasive spine surgery?",
+      "description": "In this post we will talk about how to properly prepare for a spinal intervention",
+      "side_description": "some extra information about this title"
+    },
+    {
+      "id": 3,
+      "image": "https:abc.jpeg",
+      "category": "new_technologies",
+      "title": "how do you prepare for minimally invasive spine surgery?",
+      "description": "In this post we will talk about how to properly prepare for a spinal intervention",
+      "side_description": "some extra information about this title"
+    }
+  ],
+  "contact": [
+    {
+      "location": "abc area , india",
+      "opening_hours": "From 9 am to 11 pm for all 7 days",
+      "number_of_doctors": 10,
+      "number_of_nurses": 25,
+      "avg_cost_per_person_without_surgery": 500,
+      "avg_cost_per_person_with_surgery": 2000,
+      "description": "Confident multiethnic male nurse in front of his medical team looking at camera wearing face mask during covid-19 outbreak. Happy and proud indian young surgeon standing in front of his colleagues wearing surgical mask for prevention against coronavirus. Portrait of mixed race doctor with medical staff in background at hospital.",
+      "images": ["abc.jpeg", "xyz.jpeg", "def.jpeg", "ijk.jpeg"]
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "gender": "male",
+      "experience": 2,
+      "specialized_in": "heart surgery",
+      "councelling_hours": "From 1 am to 6 am",
+      "image": "https://media.istockphoto.com/id/1080237358/photo/indian-male-doctor-on-blue-background-stock-image.jpg?s=612x612&w=0&k=20&c=584Xv0Nsqtxl1wGVGjDH7aunkBDWguG3nyR3sxEh4tU=",
+      "description": "Confident multiethnic male nurse in front of his medical team looking at camera wearing face mask during covid-19 outbreak. Happy and proud indian young surgeon standing in front of his colleagues wearing surgical mask for prevention against coronavirus. Portrait of mixed race doctor with medical staff in background at hospital.",
+      "name": "Rohan"
+    },
+    {
+      "id": 2,
+      "gender": "female",
+      "experience": 2,
+      "specialized_in": "heart surgery",
+      "councelling_hours": "From 11 am to 4 pm",
+      "image": "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+      "description": "Confident multiethnic male nurse in front of his medical team looking at camera wearing face mask during covid-19 outbreak. Happy and proud indian young surgeon standing in front of his colleagues wearing surgical mask for prevention against coronavirus. Portrait of mixed race doctor with medical staff in background at hospital.",
+      "name": "Roshni Gupta"
+    },
+    {
+      "id": 3,
+      "gender": "male",
+      "experience": 15,
+      "specialized_in": "heart surgery",
+      "councelling_hours": "From 11 am to 4 pm",
+      "image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
+      "description": "Confident multiethnic male nurse in front of his medical team looking at camera wearing face mask during covid-19 outbreak. Happy and proud indian young surgeon standing in front of his colleagues wearing surgical mask for prevention against coronavirus. Portrait of mixed race doctor with medical staff in background at hospital.",
+      "name": "Rohan"
+    },
+    {
+      "id": 4,
+      "gender": "male",
+      "experience": 5,
+      "specialized_in": "heart surgery",
+      "councelling_hours": "From 11 am to 4 pm",
+      "image": "https://media.istockphoto.com/id/1331303786/photo/black-guy-receiving-coronavirus-vaccine-injection-sitting-with-doctor-indoor.jpg?s=612x612&w=0&k=20&c=gTNcU2g8k-y3KLwVk3rgMCwZ3Vbr2eXf1Bli3LyYx58=",
+      "description": "Confident multiethnic male nurse in front of his medical team looking at camera wearing face mask during covid-19 outbreak. Happy and proud indian young surgeon standing in front of his colleagues wearing surgical mask for prevention against coronavirus. Portrait of mixed race doctor with medical staff in background at hospital.",
+      "name": "Sam Wilson"
+    },
+    {
+      "id": 5,
+      "gender": "female",
+      "experience": 35,
+      "specialized_in": "heart surgery",
+      "councelling_hours": "From 11 am to 4 pm",
+      "image": "https://media.istockphoto.com/id/1363885918/photo/portrait-of-a-smiling-young-female-doctor-wearing-a-mask.jpg?s=612x612&w=0&k=20&c=2rBM7QiEmxcyj4oZQ6DNBcEB0DESujLgo-i-p4ieWvY=",
+      "description": "Confident multiethnic male nurse in front of his medical team looking at camera wearing face mask during covid-19 outbreak. Happy and proud indian young surgeon standing in front of his colleagues wearing surgical mask for prevention against coronavirus. Portrait of mixed race doctor with medical staff in background at hospital.",
+      "name": "Geeta Sharma"
+    },
+    {
+      "id": 6,
+      "gender": "female",
+      "experience": 6,
+      "specialized_in": "heart surgery",
+      "councelling_hours": "From 11 am to 4 pm",
+      "image": "https://media.istockphoto.com/id/1315427826/photo/portrait-of-mixed-race-female-doctor-wearing-face-mask-standing-in-hospital-corridor.jpg?s=612x612&w=0&k=20&c=qamfk8uLUrx3Ivt7AKUkIKIy85rgYFj-0YkO1lOX0KI=",
+      "description": "Confident multiethnic male nurse in front of his medical team looking at camera wearing face mask during covid-19 outbreak. Happy and proud indian young surgeon standing in front of his colleagues wearing surgical mask for prevention against coronavirus. Portrait of mixed race doctor with medical staff in background at hospital.",
+      "name": "Nandani Singh"
+    },
+    {
+      "id": 7,
+      "gender": "female",
+      "experience": 35,
+      "specialized_in": "heart surgery",
+      "councelling_hours": "From 11 am to 4 pm",
+      "image": "https://media.istockphoto.com/id/1363885918/photo/portrait-of-a-smiling-young-female-doctor-wearing-a-mask.jpg?s=612x612&w=0&k=20&c=2rBM7QiEmxcyj4oZQ6DNBcEB0DESujLgo-i-p4ieWvY=",
+      "description": "Confident multiethnic male nurse in front of his medical team looking at camera wearing face mask during covid-19 outbreak. Happy and proud indian young surgeon standing in front of his colleagues wearing surgical mask for prevention against coronavirus. Portrait of mixed race doctor with medical staff in background at hospital.",
+      "name": "Geeta Sharma"
+    },
+    {
+      "id": 8,
+      "gender": "female",
+      "experience": 6,
+      "specialized_in": "heart surgery",
+      "councelling_hours": "From 11 am to 4 pm",
+      "image": "https://media.istockphoto.com/id/1315427826/photo/portrait-of-mixed-race-female-doctor-wearing-face-mask-standing-in-hospital-corridor.jpg?s=612x612&w=0&k=20&c=qamfk8uLUrx3Ivt7AKUkIKIy85rgYFj-0YkO1lOX0KI=",
+      "description": "Confident multiethnic male nurse in front of his medical team looking at camera wearing face mask during covid-19 outbreak. Happy and proud indian young surgeon standing in front of his colleagues wearing surgical mask for prevention against coronavirus. Portrait of mixed race doctor with medical staff in background at hospital.",
+      "name": "Nandani Singh"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "category": "health",
+      "image": "abc.jpeg",
+      "title": "working of heart",
+      "para_1": "30 words",
+      "para_2": "100 words",
+      "para_3": "50 words"
+    },
+    {
+      "id": 2,
+      "category": "disease",
+      "image": "abc.jpeg",
+      "title": "working of heart",
+      "para_1": "30 words",
+      "para_2": "100 words",
+      "para_3": "50 words"
+    },
+    {
+      "id": 1,
+      "category": "techniques",
+      "image": "abc.jpeg",
+      "title": "working of heart",
+      "para_1": "30 words",
+      "para_2": "100 words",
+      "para_3": "50 words"
+    }
+  ],
+  "appointment": [
+    {
+      "id": 1,
+      "category": "regular checkup",
+      "image": "abc.jpeg",
+      "description": "regular checkup is a common health checkup",
+      "available_time": "From 2 pm to 5 pm",
+      "avg_cost": 50,
+      "attending_doctor": "Mr.Rohan",
+      "description_of_doctor": "He is a very good doctor",
+      "experience": 2,
+      "expected_date": "Tomorrow of day after tomorrow"
+    },
+    {
+      "id": 2,
+      "category": "spinal surgery , heart surgery , brain surgery",
+      "image": "abc.jpeg",
+      "description": "regular checkup is a common health checkup",
+      "available_time": "From 11 am to 2 pm",
+      "avg_cost": 50,
+      "attending_doctor": "Roshni Gupta",
+      "description_of_doctor": "He is a very good doctor",
+      "experience": 2,
+      "expected_date": "2 days from today , needs to be admitted today only"
+    },
+    {
+      "id": 3,
+      "category": "emergency case",
+      "image": "abc.jpeg",
+      "description": "regular checkup is a common health checkup",
+      "available_time": "anytime",
+      "avg_cost": "depends",
+      "attending_doctor": "Mr.Manish",
+      "description_of_doctor": "He is a very good doctor",
+      "experience": 10,
+      "expected_date": "N/A"
+    }
+  ]
+}

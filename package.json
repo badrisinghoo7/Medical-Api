@@ -1,0 +1,25 @@
+{
+  "name": "medical-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badrisinghoo7/Medical-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badrisinghoo7/Medical-Api/issues"
+  },
+  "homepage": "https://github.com/badrisinghoo7/Medical-Api#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.38"
+  }
+}
