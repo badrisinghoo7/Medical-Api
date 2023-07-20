@@ -1,23 +1,118 @@
 {
   "login": [
     {
-      "id":1,
+      "id": 1,
       "username": "dummy",
       "email": "dummy@gmail.com"
     }
   ],
   "signup": [
     {
-      "id":1,
+      "id": 1,
       "username": "dummy",
       "email": "dummy@gmail.com"
     }
   ],
   "questions": [
     {
-      "number": 1,
+      "id": 1,
       "question": "what are the benefits of daily workout",
       "answer": "mind and body stays happy"
+    },
+    {
+      "id": 2,
+      "question": "Why we choose this medicine for us",
+      "answer": "Because it is prefered by your relevent doctor so you take an d stay helthy."
+    },
+    {
+      "id": 3,
+      "question": "What is the recommended daily water intake for adults?",
+      "answer": "The general guideline is to drink at least eight 8-ounce glasses of water per day, which is about 2 liters or half a gallon. However, individual needs may vary based on factors like activity level, climate, and overall health."
+    },
+    {
+      "id": 4,
+      "question": "What are the common symptoms of the flu?",
+      "answer": "Common flu symptoms include fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, fatigue, and sometimes vomiting or diarrhea."
+    },
+    {
+      "id": 5,
+      "question": "How can I prevent getting the flu?",
+      "answer": "The best way to prevent the flu is by getting an annual flu vaccine. Additionally, practicing good hygiene, such as washing hands regularly, avoiding close contact with sick individuals, and covering your mouth and nose when coughing or sneezing, can help reduce the risk of infection."
+    },
+    {
+      "id": 6,
+      "question": "What are the signs of a heart attack?",
+      "answer": "Signs of a heart attack may include chest pain or discomfort, shortness of breath, pain or discomfort in the arms, back, neck, jaw, or stomach, cold sweats, nausea, and lightheadedness. If you suspect a heart attack, seek immediate medical attention."
+    },
+    {
+      "id": 7,
+      "question": "How often should adults have a regular health check-up?",
+      "answer": "It is generally recommended for adults to have a regular health check-up with their healthcare provider once a year. However, the frequency may vary depending on individual health needs and risk factors."
+    },
+    {
+      "id": 8,
+      "question": "What is the difference between a cold and allergies?",
+      "answer": "Colds are caused by viral infections and typically last for about 7-10 days. Allergies, on the other hand, occur when the immune system overreacts to allergens such as pollen, pet dander, or dust, and symptoms can persist as long as exposure to the allergen continues."
+    },
+    {
+      "id": 9,
+      "question": "How can I lower my blood pressure naturally?",
+      "answer": "Some lifestyle changes that can help lower blood pressure include maintaining a healthy diet (such as the DASH diet), regular exercise, reducing salt intake, managing stress, limiting alcohol consumption, and not smoking."
+    },
+    {
+      "id": 10,
+      "question": "What are the early warning signs of skin cancer?",
+      "answer": " Early warning signs of skin cancer include changes in the size, shape, or color of a mole or the appearance of a new growth. It's essential to pay attention to moles that are asymmetrical, have irregular borders, have multiple colors, or are larger than 6mm in diameter."
+    },
+    {
+      "id": 11,
+      "question": "What is the recommended age to start screening for colorectal cancer?",
+      "answer": "The American Cancer Society recommends starting regular colorectal cancer screening for most people at age 45. However, individuals with a family history of colorectal cancer or other risk factors may need to start screening earlier."
+    },
+    {
+      "id": 12,
+      "question": "What are the symptoms of an allergic reaction?",
+      "answer": "Symptoms of an allergic reaction can include hives, itching, swelling (especially of the face, lips, or tongue), difficulty breathing, wheezing, and in severe cases, anaphylaxis. Seek immediate medical attention for severe allergic reactions."
+    },
+    {
+      "id": 13,
+      "question": "How often should women have a mammogram to screen for breast cancer?",
+      "answer": "The American Cancer Society recommends that women with an average risk of breast cancer should start getting mammograms at age 40 and continue to have them annually. However, individual risk factors may influence the screening schedule."
+    },
+    {
+      "id": 14,
+      "question": "What is the difference between type 1 and type 2 diabetes?",
+      "answer": "Type 1 diabetes is an autoimmune condition where the body's immune system attacks and destroys insulin-producing cells in the pancreas. Type 2 diabetes is characterized by insulin resistance, where the body doesn't use insulin effectively or doesn't produce enough insulin."
+    },
+    {
+      "id": 15,
+      "question": "What are the symptoms of a stroke?",
+      "answer": "The common symptoms of a stroke include sudden numbness or weakness in the face, arm, or leg (especially on one side of the body), confusion, trouble speaking or understanding speech, sudden trouble seeing in one or both eyes, and a severe headache."
+    },
+    {
+      "id": 16,
+      "question": "How can I protect myself from mosquito-borne illnesses like malaria and dengue fever?",
+      "answer": "To protect yourself from mosquito-borne illnesses, use mosquito repellent containing DEET, wear long-sleeved clothing and pants, and use bed nets treated with insecticides while sleeping. Additionally, eliminate standing water around your home to reduce mosquito breeding sites."
+    },
+    {
+      "id": 17,
+      "question": "What are the symptoms of a urinary tract infection (UTI)?",
+      "answer": "Symptoms of a UTI may include a strong and persistent urge to urinate, a burning sensation during urination, cloudy or bloody urine, foul-smelling urine, and pelvic pain. If you suspect a UTI, seek medical evaluation and treatment."
+    },
+    {
+      "id": 18,
+      "question": "How can I improve my cardiovascular health?",
+      "answer": "Improving cardiovascular health involves adopting a heart-healthy diet (e.g., Mediterranean diet), engaging in regular aerobic exercise, not smoking, managing stress, and controlling conditions like high blood pressure, diabetes, and cholesterol levels."
+    },
+    {
+      "id": 19,
+      "question": "What are the potential complications of uncontrolled diabetes?",
+      "answer": "Uncontrolled diabetes can lead to various complications, including heart disease, stroke, kidney disease, nerve damage (neuropathy), eye problems (retinopathy), foot ulcers, and an increased risk of infections."
+    },
+    {
+      "id": 20,
+      "question": "How can I prevent common sports injuries?",
+      "answer": "Preventing sports injuries involves warming up before physical activity, using proper techniques and equipment, gradually increasing intensity and duration of exercise, cross-training to balance muscle use, and allowing time for rest and recovery."
     }
   ],
   "asked_questions": [
@@ -32,6 +127,101 @@
       "id": 1,
       "heading": "Premium facilities",
       "description": "Guarantee of the best means and hospital centers distributed by the Madrid Community"
+    },
+    {
+      "id": 2,
+      "heading": "Experienced Medical Staff",
+      "description": "Our hospital boasts a team of highly skilled and experienced medical professionals dedicated to providing top-quality healthcare services."
+    },
+    {
+      "id": 3,
+      "heading": "State-of-the-Art Technology",
+      "description": "We invest in cutting-edge medical technology and equipment to ensure accurate diagnoses and effective treatments for our patients."
+    },
+    {
+      "id": 4,
+      "heading": "Comprehensive Specialties",
+      "description": "With a wide range of medical specialties and departments, our hospital offers comprehensive healthcare services to meet diverse patient needs."
+    },
+    {
+      "id": 5,
+      "heading": "Patient-Centered Care",
+      "description": "We prioritize patient comfort and well-being, striving to create a warm and welcoming environment where patients feel valued and cared for."
+    },
+    {
+      "id": 6,
+      "heading": "Accredited and Certified",
+      "description": "Our hospital holds all the necessary accreditations and certifications, ensuring compliance with industry standards and patient safety regulations."
+    },
+    {
+      "id": 7,
+      "heading": "Emergency Services",
+      "description": "Equipped with a dedicated emergency department, we are ready to provide urgent medical care round-the-clock."
+    },
+    {
+      "id": 8,
+      "heading": "Convenient Location",
+      "description": "Our hospital's strategic location allows easy accessibility and convenience for patients seeking medical attention."
+    },
+    {
+      "id": 9,
+      "heading": "Patient Education",
+      "description": "We believe in empowering patients through education, providing them with the necessary information to make informed decisions about their health."
+    },
+    {
+      "id": 10,
+      "heading": "Follow-up and Aftercare",
+      "description": "We offer comprehensive follow-up care and aftercare services to ensure patients' continued well-being even after they leave our hospital."
+    },
+    {
+      "id": 11,
+      "heading": "Personalized Treatment Plans",
+      "description": "Our medical team designs customized treatment plans for each patient, taking into account their unique health conditions and preferences."
+    },
+    {
+      "id": 12,
+      "heading": "Outstanding Reputation",
+      "description": "Our hospital has earned a stellar reputation for providing excellent healthcare services and achieving positive patient outcomes."
+    },
+    {
+      "id": 13,
+      "heading": "Multilingual Support",
+      "description": "To cater to a diverse patient population, we offer multilingual support and translation services for effective communication."
+    },
+    {
+      "id": 14,
+      "heading": "Advanced Surgical Procedures",
+      "description": "Our hospital's surgical department is equipped to perform advanced procedures using minimally invasive techniques for faster recovery and reduced complications."
+    },
+    {
+      "id": 15,
+      "heading": "Holistic Approach to Health",
+      "description": "We believe in a holistic approach to health, addressing not only the physical aspects but also the mental and emotional well-being of our patients."
+    },
+    {
+      "id": 16,
+      "heading": "Collaborative Care",
+      "description": "Our medical teams work collaboratively, combining expertise from various specialties to provide comprehensive care for complex medical conditions."
+    },
+    {
+      "id": 17,
+      "heading": "Patient Safety Initiatives",
+      "description": "We prioritize patient safety and continuously implement initiatives to enhance safety measures throughout the hospital."
+    },
+    {
+      "id": 18,
+      "heading": "Innovative Research and Clinical Trials",
+      "description": "As a research-oriented hospital, we participate in innovative medical research and clinical trials, offering patients access to the latest treatment options."
+    },
+    {
+      "id": 19,
+      "heading": "Affordable Healthcare Services",
+      "description": "We strive to provide high-quality healthcare services at reasonable and transparent costs, ensuring accessibility for all patients."
+    },
+    {
+      "id": 20,
+      "heading": "Emphasis on Preventive Care",
+      "description": "Our hospital places significant emphasis on preventive care and health education, aiming to reduce the incidence of preventable illnesses and promote wellness."
     }
   ],
   "what_we_treat": [
@@ -39,7 +229,7 @@
       "id": 1,
       "problem": "Spinal Infection",
       "days_needed": 3,
-      "image": "https:abc.jpeg",
+      "image": "https://www.google.com/search?rlz=1C1CHBD_enIN1028IN1028&sxsrf=AB5stBhLO-IK7cDB2sH-Sk4TY_S6SdMl6g:1689881942171&q=spinal+infection&tbm=isch&sa=X&sqi=2&ved=2ahUKEwicjoDnhJ6AAxXhSWwGHWaLCp0Q0pQJegQICxAB&biw=726&bih=751&dpr=1.25",
       "process": [
         "Firstly a surgery",
         "Two days of Stayback in the hospital",
@@ -51,6 +241,299 @@
       "avg_cost": 29,
       "description_of_disease": "Spinal Infection is a disease in which the patient starts loosing back_bone power and would not be able to stand straight even for 5 minutes",
       "how_many_percent_people_struggling": 50
+    },
+    {
+      "id": 2,
+      "problem": "Type 2 Diabetes",
+      "days_needed": 10,
+      "image": "https://www.google.com/search?q=Type+2+Diabetes&tbm=isch&ved=2ahUKEwj0yJnohJ6AAxX6mGMGHSpvDJMQ2-cCegQIABAA&oq=Type+2+Diabetes&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BwgAEIoFEEM6BggAEAcQHlDBCFjBCGDmG2gAcAB4AIABnwGIAbgCkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=WI25ZPS8KfqxjuMPqt6xmAk&bih=751&biw=726&rlz=1C1CHBD_enIN1028IN1028",
+      "process": [
+        "Diagnosis and blood tests",
+        "Medication and dietary adjustments",
+        "Regular monitoring of blood sugar levels",
+        "Lifestyle counseling and education",
+        "Complications management if required"
+      ],
+      "avg_cost": 45,
+      "description_of_disease": "Type 2 Diabetes is a chronic condition characterized by high blood sugar levels due to insulin resistance or insufficient insulin production.",
+      "how_many_percent_people_struggling": 8
+    },
+    {
+      "id": 3,
+      "problem": "Coronary Artery Disease",
+      "days_needed": 7,
+      "image": "https://www.cardiovascularconsultantspc.com/wp-content/uploads/2019/02/atherosclerosis2-300x297.jpg",
+      "process": [
+        "Cardiac evaluation and imaging tests",
+        "Lifestyle changes and medications",
+        "Angioplasty or bypass surgery if necessary",
+        "Cardiac rehabilitation and follow-up care"
+      ],
+      "avg_cost": 65,
+      "description_of_disease": "Coronary Artery Disease is a condition where the coronary arteries supplying blood to the heart become narrowed or blocked, leading to reduced blood flow to the heart muscle.",
+      "how_many_percent_people_struggling": 20
+    },
+    {
+      "id": 4,
+      "problem": "Asthma",
+      "days_needed": 5,
+      "image": "https://www.google.com/search?q=Asthma&tbm=isch&ved=2ahUKEwi8s66GhZ6AAxUKomMGHe5WC8EQ2-cCegQIABAA&oq=Asthma&gs_lcp=CgNpbWcQAzIHCAAQigUQQzIKCAAQigUQsQMQQzINCAAQigUQsQMQgwEQQzINCAAQigUQsQMQgwEQQzILCAAQgAQQsQMQgwEyBwgAEIoFEEMyBwgAEIoFEEMyCwgAEIAEELEDEIMBMgcIABCKBRBDMggIABCABBCxAzoECCMQJzoFCAAQgARQ9AxYpiJg9iNoAHAAeACAAYICiAHhCZIBBTAuNS4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=l425ZPyLOYrEjuMP7q2tiAw&bih=751&biw=726&rlz=1C1CHBD_enIN1028IN1028#imgrc=7qpgyRGXlZwLaM",
+      "process": [
+        "Respiratory assessment and lung function tests",
+        "Inhaled medications and asthma action plan",
+        "Lifestyle modifications and trigger avoidance",
+        "Education on asthma management"
+      ],
+      "avg_cost": 18,
+      "description_of_disease": "Asthma is a chronic respiratory condition that causes airway inflammation and constriction, leading to wheezing, coughing, and difficulty breathing.",
+      "how_many_percent_people_struggling": 12
+    },
+    {
+      "id": 5,
+      "problem": "Breast Cancer",
+      "days_needed": 14,
+      "image": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/3986-breast-cancer",
+      "process": [
+        "Breast examination and imaging (mammogram)",
+        "Biopsy and cancer staging",
+        "Surgery (lumpectomy or mastectomy)",
+        "Chemotherapy, radiation, or targeted therapy",
+        "Follow-up and survivorship care"
+      ],
+      "avg_cost": 80,
+      "description_of_disease": "Breast Cancer is a malignant tumor that develops in the breast tissue and is the most common cancer in women worldwide.",
+      "how_many_percent_people_struggling": 4
+    },
+    {
+      "id": 6,
+      "problem": "Depression",
+      "days_needed": 14,
+      "image": "https://images.ctfassets.net/zkw0qlnf0vqv/psycom_page_asset_3ca4b3fb314bc2527869e655dd922af027430c9c/241580ef1fd6180f1cef6cc5a6aaffd2/psycom_page_asset_3ca4b3fb314bc2527869e655dd922af027430c9c",
+      "process": [
+        "Psychological evaluation and assessment",
+        "Cognitive-behavioral therapy (CBT)",
+        "Medication management if necessary",
+        "Support groups and counseling",
+        "Follow-up and relapse prevention"
+      ],
+      "avg_cost": 35,
+      "description_of_disease": "Depression is a mood disorder characterized by persistent feelings of sadness, loss of interest, and a lack of motivation or pleasure in daily activities.",
+      "how_many_percent_people_struggling": 15
+    },
+    {
+      "id": 7,
+      "problem": "Rheumatoid Arthritis",
+      "days_needed": 21,
+      "image": "https://medlineplus.gov/ency/images/ency/fullsize/17130.jpg",
+      "process": [
+        "Joint examination and blood tests",
+        "Medications to manage inflammation and pain",
+        "Physical therapy and joint exercises",
+        "Disease-modifying antirheumatic drugs (DMARDs)",
+        "Lifestyle changes and patient education"
+      ],
+      "avg_cost": 60,
+      "description_of_disease": "Rheumatoid Arthritis is an autoimmune disorder causing joint inflammation, pain, and stiffness, often affecting multiple joints symmetrically.",
+      "how_many_percent_people_struggling": 7
+    },
+    {
+      "id": 8,
+      "problem": "Kidney Stones",
+      "days_needed": 2,
+      "image": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/9/shutterstock_409736524.jpg",
+      "process": [
+        "Diagnostic imaging (ultrasound or CT scan)",
+        "Pain management and hydration",
+        "Extracorporeal shock wave lithotripsy (ESWL) or surgery",
+        "Preventive measures to avoid future stones"
+      ],
+      "avg_cost": 25,
+      "description_of_disease": "Kidney Stones are hard mineral and salt deposits that form in the kidneys and may cause severe pain and discomfort when passed through the urinary tract.",
+      "how_many_percent_people_struggling": 10
+    },
+    {
+      "id": 9,
+      "problem": "COPD (Chronic Obstructive Pulmonary Disease)",
+      "days_needed": 7,
+      "image": "https://images.theconversation.com/files/51298/original/5vq77fd6-1402980783.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+      "process": [
+        "Lung function tests and respiratory assessment",
+        "Smoking cessation counseling",
+        "Inhaled bronchodilators and steroids",
+        "Pulmonary rehabilitation and oxygen therapy if required"
+      ],
+      "avg_cost": 40,
+      "description_of_disease": "COPD is a progressive lung disease that obstructs airflow, making it difficult to breathe and leading to chronic cough and shortness of breath.",
+      "how_many_percent_people_struggling": 9
+    },
+    {
+      "id": 10,
+      "problem": "Gastric Ulcers",
+      "days_needed": 3,
+      "image": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/22314-stomach-ulcer.ashx",
+      "process": [
+        "Endoscopy and imaging tests",
+        "Medication to reduce stomach acid and promote healing",
+        "Lifestyle changes and dietary recommendations",
+        "Follow-up to monitor ulcer healing"
+      ],
+      "avg_cost": 20,
+      "description_of_disease": "Gastric Ulcers are open sores that develop on the lining of the stomach, often caused by the erosion of the protective mucus layer.",
+      "how_many_percent_people_struggling": 14
+    },
+    {
+      "id": 11,
+      "problem": "Osteoporosis",
+      "days_needed": 5,
+      "image": "https://www.lalpathlabs.com/blog/wp-content/uploads/2023/06/osteoporosis.jpg",
+      "process": [
+        "Bone density tests and fracture risk assessment",
+        "Calcium and vitamin D supplementation",
+        "Medications to slow bone loss",
+        "Weight-bearing exercises and fall prevention",
+        "Patient education on bone health"
+      ],
+      "avg_cost": 30,
+      "description_of_disease": "Osteoporosis is a condition where bones become weak and brittle, increasing the risk of fractures, especially in older individuals.",
+      "how_many_percent_people_struggling": 6
+    },
+    {
+      "id": 12,
+      "problem": "Colon Cancer",
+      "days_needed": 14,
+      "image": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/14501-colorectal-cancer",
+      "process": [
+        "Colonoscopy or sigmoidoscopy for screening",
+        "Tissue biopsy and cancer staging",
+        "Surgery (colectomy or polypectomy)",
+        "Chemotherapy or radiation therapy",
+        "Follow-up surveillance and monitoring"
+      ],
+      "avg_cost": 70,
+      "description_of_disease": "Colon Cancer is a malignancy that develops in the colon or rectum, often starting as polyps that can turn cancerous over time.",
+      "how_many_percent_people_struggling": 5
+    },
+    {
+      "id": 13,
+      "problem": "Migraine",
+      "days_needed": 2,
+      "image": "https://images.ctfassets.net/zkw0qlnf0vqv/psycom_page_asset_3ca4b3fb314bc2527869e655dd922af027430c9c/241580ef1fd6180f1cef6cc5a6aaffd2/psycom_page_asset_3ca4b3fb314bc2527869e655dd922af027430c9c",
+      "process": [
+        "Thorough evaluation and medical history",
+        "Pain management and medications",
+        "Identifying and avoiding triggers",
+        "Lifestyle modifications and stress management"
+      ],
+      "avg_cost": 15,
+      "description_of_disease": "Migraine is a neurological condition characterized by recurrent severe headaches, often accompanied by nausea, vomiting, and sensitivity to light and sound.",
+      "how_many_percent_people_struggling": 16
+    },
+    {
+      "id": 14,
+      "problem": "Gastroesophageal Reflux Disease (GERD)",
+      "days_needed": 3,
+      "image": "https://tulsagastro.com/wp-content/uploads/2018/02/gerd-1-300x239.jpg",
+      "process": [
+        "Gastrointestinal evaluation and endoscopy",
+        "Lifestyle modifications (diet and weight management)",
+        "Medications to reduce stomach acid",
+        "Surgery (in severe cases)"
+      ],
+      "avg_cost": 22,
+      "description_of_disease": "GERD is a chronic digestive disorder where stomach acid flows back into the esophagus, causing symptoms like heartburn and acid reflux.",
+      "how_many_percent_people_struggling": 13
+    },
+    {
+      "id": 15,
+      "problem": "Anxiety Disorder",
+      "days_needed": 14,
+      "image": "https://www.verywellmind.com/thmb/YDr2IpkoMAdWZgNwkqMzG6OJ3VU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dsm-5-criteria-for-generalized-anxiety-disorder-1393147-final-5cde49b87f644d4a9eb25ad7ab1ceae0.png",
+      "process": [
+        "Psychological assessment and diagnosis",
+        "Cognitive-behavioral therapy (CBT)",
+        "Medications (antidepressants or anxiolytics)",
+        "Relaxation techniques and mindfulness"
+      ],
+      "avg_cost": 32,
+      "description_of_disease": "Anxiety Disorder is a mental health condition characterized by excessive worry, fear, and uneasiness, often leading to avoidance behaviors.",
+      "how_many_percent_people_struggling": 11
+    },
+    {
+      "id": 16,
+      "problem": "Hypertension (High Blood Pressure)",
+      "days_needed": 7,
+      "image": "https://www.verywellmind.com/thmb/YDr2IpkoMAdWZgNwkqMzG6OJ3VU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dsm-5-criteria-for-generalized-anxiety-disorder-1393147-final-5cde49b87f644d4a9eb25ad7ab1ceae0.png",
+      "process": [
+        "Blood pressure monitoring and diagnostic tests",
+        "Lifestyle modifications (diet, exercise, and stress reduction)",
+        "Medications to lower blood pressure if necessary",
+        "Regular follow-up and monitoring"
+      ],
+      "avg_cost": 28,
+      "description_of_disease": "Hypertension is a condition where the force of blood against the artery walls is consistently too high, leading to increased risks of heart disease and stroke.",
+      "how_many_percent_people_struggling": 18
+    },
+    {
+      "id": 17,
+      "problem": "Melanoma",
+      "days_needed": 10,
+      "image": "https://www.vuskinsystem.com/cdn/shop/articles/melanoma_e8ea781b-e499-4f0a-9e34-597b20ec937b.jpg?v=1685576805",
+      "process": [
+        "Skin examination and biopsy",
+        "Cancer staging and imaging",
+        "Surgical excision of the melanoma",
+        "Immunotherapy or targeted therapy",
+        "Long-term monitoring and sun protection"
+      ],
+      "avg_cost": 75,
+      "description_of_disease": "Melanoma is a type of skin cancer that develops from melanocytes and can spread rapidly to other parts of the body if not detected and treated early.",
+      "how_many_percent_people_struggling": 3
+    },
+    {
+      "id": 18,
+      "problem": "Epilepsy",
+      "days_needed": 7,
+      "image": "https://www.carehospitals.com/ckfinder/userfiles/images/symptoms-of-epilepsy.png",
+      "process": [
+        "Neurological evaluation and EEG",
+        "Anti-seizure medications and dosage adjustments",
+        "Lifestyle management and safety measures",
+        "Surgery (in some cases)",
+        "Epilepsy support and education"
+      ],
+      "avg_cost": 38,
+      "description_of_disease": "Epilepsy is a neurological disorder characterized by recurrent seizures, resulting from abnormal brain activity.",
+      "how_many_percent_people_struggling": 6
+    },
+    {
+      "id": 19,
+      "problem": "Hepatitis C",
+      "days_needed": 28,
+      "image": "https://www.medicoverhospitals.in/images/diseases/hepatitis-c-symptoms.webp",
+      "process": [
+        "Hepatitis C screening and blood tests",
+        "Antiviral medications and treatment plan",
+        "Regular liver function monitoring",
+        "Lifestyle changes (avoiding alcohol and certain medications)"
+      ],
+      "avg_cost": 50,
+      "description_of_disease": "Hepatitis C is a viral infection that primarily affects the liver, causing inflammation and possible long-term liver damage.",
+      "how_many_percent_people_struggling": 3
+    },
+    {
+      "id": 20,
+      "problem": "Glaucoma",
+      "days_needed": 2,
+      "image": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/4212-glaucoma.jpg",
+      "process": [
+        "Comprehensive eye examination and tonometry",
+        "Medication (eye drops) to reduce intraocular pressure",
+        "Laser trabeculoplasty or surgery (in advanced cases)",
+        "Regular eye exams and follow-up care"
+      ],
+      "avg_cost": 24,
+      "description_of_disease": "Glaucoma is a group of eye conditions that damage the optic nerve and can lead to irreversible vision loss if left untreated.",
+      "how_many_percent_people_struggling": 4
     }
   ],
   "treatment_techniques": [
