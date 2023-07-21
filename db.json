@@ -540,7 +540,7 @@
     {
       "id": 1,
       "technology": "Reconstructive Surgery Endoscopy",
-      "image": "https:abc.jpeg",
+      "image": "https://contourshyd.com/wp-content/uploads/2020/02/ENDOSCOPIC-PLASTIC-SURGERY.jpg",
       "used_in_which": ["Spinal Injury", "Heart Attack"],
       "technology_description": "A very powerful but dangerous machine , needs to be used by only professionals having experience more than 10 years",
       "avg_cost": 5000,
@@ -549,34 +549,418 @@
         "Person struggling with back pain can positively be treated permanently from this treatment machine"
       ],
       "number_of_hospitals_having_this": 5
+    },
+    {
+      "id": 2,
+      "technology": "Gene Therapy",
+      "image": "https://cdn.mos.cms.futurecdn.net/97QX5fRoqwVAQD5cZ6nPoa.jpg",
+      "used_in_which": ["Genetic Disorders", "Cancer"],
+      "technology_description": "Gene Therapy involves modifying the patient's genes to treat or prevent diseases. It holds promise in treating genetic disorders and certain types of cancer. However, it is a complex and emerging field with potential risks and ethical considerations. The treatment is still under extensive research and may not be widely available.",
+      "avg_cost": 150000,
+      "features": [
+        "Potential to cure genetic disorders by correcting faulty genes",
+        "Targeted approach for treating specific types of cancer"
+      ],
+      "number_of_hospitals_having_this": 2
+    },
+    {
+      "id": 3,
+      "technology": "Hemodialysis",
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/blog/2022/06/1656408628_Hemodialysis_898x450.jpg",
+      "used_in_which": ["Chronic Kidney Disease", "End-stage Renal Disease"],
+      "technology_description": "Hemodialysis is a life-saving treatment for individuals with kidney failure. It involves using a dialysis machine to filter waste and excess fluids from the blood, compensating for the non-functioning kidneys. Patients require regular sessions at a specialized dialysis center for proper management.",
+      "avg_cost": 2000,
+      "features": [
+        "Effective for managing kidney failure and maintaining fluid balance",
+        "Provides a lifeline for patients awaiting kidney transplant"
+      ],
+      "number_of_hospitals_having_this": 100
+    },
+    {
+      "id": 4,
+      "technology": "Chemotherapy",
+      "image": "https://assets.lybrate.com/imgs/tic/enadp/what-is-chemotherapy.webp",
+      "used_in_which": ["Cancer"],
+      "technology_description": "Chemotherapy involves using powerful drugs to target and destroy cancer cells. It is a systemic treatment that can be administered orally or intravenously. Chemotherapy is often combined with other cancer treatments, such as surgery and radiation therapy, to increase its effectiveness.",
+      "avg_cost": 8000,
+      "features": [
+        "Can shrink or eliminate tumors before surgery",
+        "Effective in treating cancers that have spread to other parts of the body"
+      ],
+      "number_of_hospitals_having_this": 200
+    },
+    {
+      "id": 5,
+      "technology": "In vitro fertilization (IVF)",
+      "image": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/IVF%20process%20infographic%20-%20ectorPot%20_thumb_1.jpg",
+      "used_in_which": ["Infertility"],
+      "technology_description": "IVF is an assisted reproductive technology used to help individuals or couples with infertility issues. It involves fertilizing an egg with sperm outside the body and then transferring the embryo to the uterus for pregnancy. IVF success rates can vary depending on several factors, including the age and health of the individual undergoing the procedure.",
+      "avg_cost": 12000,
+      "features": [
+        "A viable option for individuals or couples struggling with infertility",
+        "Increased chances of conception when other methods have failed"
+      ],
+      "number_of_hospitals_having_this": 500
+    },
+    {
+      "id": 6,
+      "technology": "Radiotherapy",
+      "image": "https://buzzrx.s3.amazonaws.com/21caec58-7b76-4bc1-9931-45c6076f409b/RadiationTherapy.png",
+      "used_in_which": ["Cancer"],
+      "technology_description": "Radiotherapy, also known as radiation therapy, uses high doses of radiation to kill or damage cancer cells. It is a localized treatment that targets specific areas affected by cancer. Radiotherapy can be used alone or in combination with other treatments like surgery and chemotherapy.",
+      "avg_cost": 6000,
+      "features": [
+        "Precise targeting of cancer cells, sparing surrounding healthy tissue",
+        "Effective in shrinking tumors and preventing cancer recurrence"
+      ],
+      "number_of_hospitals_having_this": 300
+    },
+    {
+      "id": 7,
+      "technology": "Physical Therapy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyNgvqbXDzGwYCJ_FYSRImtLoHZuuK2OtU-DwMiSLcJCRIqPPSa-t1C7XVLNZR9Jnef-I&usqp=CAU",
+      "used_in_which": ["Musculoskeletal Injuries", "Neurological Disorders"],
+      "technology_description": "Physical Therapy involves exercises and techniques to improve mobility, strength, and function in individuals recovering from injuries or managing chronic conditions. It is a non-invasive and drug-free approach to pain management and rehabilitation.",
+      "avg_cost": 1000,
+      "features": [
+        "Tailored treatment plans to meet individual patient needs",
+        "Promotes faster recovery and improves quality of life"
+      ],
+      "number_of_hospitals_having_this": 1000
+    },
+    {
+      "id": 8,
+      "technology": "Laser Eye Surgery",
+      "image": "https://www.optilase.com/wp-content/uploads/2016/12/Lasik-Eye-Surgery.jpg",
+      "used_in_which": ["Vision Correction"],
+      "technology_description": "Laser Eye Surgery, such as LASIK (Laser-Assisted in Situ Keratomileusis), is a common refractive surgery to correct vision problems like nearsightedness, farsightedness, and astigmatism. It reshapes the cornea using a laser to improve visual acuity and reduce the dependence on glasses or contact lenses.",
+      "avg_cost": 3000,
+      "features": [
+        "Rapid visual recovery and minimal discomfort",
+        "Long-term correction of refractive errors"
+      ],
+      "number_of_hospitals_having_this": 150
+    },
+    {
+      "id": 9,
+      "technology": "Artificial Intelligence in Medical Diagnostics",
+      "image": "https://static.scientificamerican.com/sciam/cache/file/01C9741F-6F6D-4882-8217D92370325AA7_source.jpg",
+      "used_in_which": ["Medical Diagnostics"],
+      "technology_description": "Artificial Intelligence (AI) is used in medical diagnostics to analyze large datasets and identify patterns and abnormalities. AI algorithms can aid in the early detection of diseases, including cancer and neurological disorders, by interpreting medical imaging and diagnostic tests.",
+      "avg_cost": 500,
+      "features": [
+        "Enhanced accuracy and efficiency in medical image analysis",
+        "Potential to reduce diagnostic errors and improve patient outcomes"
+      ],
+      "number_of_hospitals_having_this": 50
+    },
+    {
+      "id": 10,
+      "technology": "Immunotherapy",
+      "image": "https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2022-05/immunotherapy-infographic.jpg?itok=Vh4UJ1aO",
+      "used_in_which": ["Cancer"],
+      "technology_description": "Immunotherapy is a treatment that boosts the body's immune system to fight cancer cells. It can include checkpoint inhibitors, adoptive cell therapy, and cancer vaccines. Immunotherapy is a promising approach, particularly for certain types of cancer, and is often used in combination with other treatments.",
+      "avg_cost": 20000,
+      "features": [
+        "Targets cancer cells while sparing healthy cells",
+        "Potential for long-lasting responses and lower risk of recurrence"
+      ],
+      "number_of_hospitals_having_this": 80
+    },
+    {
+      "id": 11,
+      "technology": "Deep Brain Stimulation (DBS)",
+      "image": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/12/Deep_brain_stimulation.jpg",
+      "used_in_which": ["Parkinson's Disease", "Essential Tremor"],
+      "technology_description": "DBS is a surgical procedure that involves implanting electrodes in specific brain regions to regulate abnormal nerve signals. It is used to treat movement disorders like Parkinson's disease and essential tremor when medications become less effective.",
+      "avg_cost": 40000,
+      "features": [
+        "Reduces tremors and improves motor function",
+        "Enhances the quality of life in patients with movement disorders"
+      ],
+      "number_of_hospitals_having_this": 25
+    },
+    {
+      "id": 12,
+      "technology": "Nanomedicine",
+      "image": "https://ars.els-cdn.com/content/image/3-s2.0-B9780128033029000129-f12-01-9780128033029.jpg",
+      "used_in_which": ["Cancer", "Chronic Diseases"],
+      "technology_description": "Nanomedicine involves the use of nanoparticles to deliver drugs directly to targeted cells or tissues in the body. This targeted drug delivery approach can enhance treatment efficacy while reducing side effects in various diseases, including cancer and chronic conditions.",
+      "avg_cost": 10000,
+      "features": [
+        "Minimizes damage to healthy cells and tissues",
+        "Allows for personalized treatment strategies"
+      ],
+      "number_of_hospitals_having_this": 15
+    },
+    {
+      "id": 13,
+      "technology": "Electroconvulsive Therapy (ECT)",
+      "image": "https://assets.medpagetoday.net/media/images/99xxx/99401.jpg",
+      "used_in_which": ["Severe Depression", "Bipolar Disorder"],
+      "technology_description": "ECT is a psychiatric treatment that induces controlled seizures in the brain to alleviate severe depression and certain mental health conditions. It is generally reserved for cases where other treatments have been ineffective.",
+      "avg_cost": 6000,
+      "features": [
+        "Rapid relief for severe depressive symptoms",
+        "May be considered when other treatments have failed"
+      ],
+      "number_of_hospitals_having_this": 10
+    },
+    {
+      "id": 14,
+      "technology": "Robotic Surgery",
+      "image": "https://assets.medpagetoday.net/media/images/99xxx/99401.jpg",
+      "used_in_which": ["Minimally Invasive Surgery"],
+      "technology_description": "Robotic Surgery involves the use of robotic systems to assist surgeons in performing minimally invasive procedures. It offers enhanced precision and dexterity during surgery, resulting in smaller incisions, reduced scarring, and faster recovery for patients.",
+      "avg_cost": 8000,
+      "features": [
+        "Improved surgical outcomes and reduced complications",
+        "Allows for complex procedures with greater precision"
+      ],
+      "number_of_hospitals_having_this": 30
+    },
+    {
+      "id": 15,
+      "technology": "Stem Cell Therapy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stem_cell_treatments.svg/220px-Stem_cell_treatments.svg.png",
+      "used_in_which": ["Tissue Regeneration", "Certain Blood Disorders"],
+      "technology_description": "Stem Cell Therapy involves using stem cells to repair damaged tissues and organs or replace dysfunctional cells in the body. It shows promise in treating various conditions, including tissue injuries and certain blood disorders.",
+      "avg_cost": 20000,
+      "features": [
+        "Potential to regenerate damaged tissues and organs",
+        "Offers hope for conditions with limited treatment options"
+      ],
+      "number_of_hospitals_having_this": 20
+    },
+    {
+      "id": 16,
+      "technology": "Photodynamic Therapy (PDT)",
+      "image": "https://images.ctfassets.net/u4vv676b8z52/5ave0F0QRGoisPmKQaVkRA/c40ff67b84805a7e491d9dc24daecd74/photodynamic_therapy_hero.jpeg?fm=jpg&q=80",
+      "used_in_which": ["Skin Cancer", "Actinic Keratosis"],
+      "technology_description": "PDT is a treatment that uses a photosensitizing agent and light to destroy cancer cells or precancerous cells on the skin's surface. It is commonly used for superficial skin cancers and actinic keratosis, a precancerous condition caused by sun damage.",
+      "avg_cost": 3000,
+      "features": [
+        "Minimally invasive treatment for superficial skin cancers",
+        "Can be performed on an outpatient basis"
+      ],
+      "number_of_hospitals_having_this": 12
+    },
+    {
+      "id": 17,
+      "technology": "Virtual Reality Therapy",
+      "image": "https://positive.b-cdn.net/wp-content/uploads/2020/10/Virtual-reality-therapy.jpg",
+      "used_in_which": ["Anxiety", "Phobias", "Post-Traumatic Stress Disorder"],
+      "technology_description": "Virtual Reality Therapy uses immersive virtual environments to help individuals confront and overcome fears, anxieties, and traumatic experiences. It provides a controlled and safe environment for exposure therapy.",
+      "avg_cost": 1500,
+      "features": [
+        "Promotes desensitization to triggers and anxieties",
+        "Enhances engagement and motivation in therapy"
+      ],
+      "number_of_hospitals_having_this": 8
+    },
+    {
+      "id": 18,
+      "technology": "Transcranial Magnetic Stimulation (TMS)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Transcranial_magnetic_stimulation.jpg",
+      "used_in_which": ["Depression", "Obsessive-Compulsive Disorder"],
+      "technology_description": "TMS uses magnetic fields to stimulate specific areas of the brain to treat depression and certain mental health conditions. It is a non-invasive procedure that does not require anesthesia or surgery.",
+      "avg_cost": 5000,
+      "features": [
+        "Effective for treatment-resistant depression",
+        "Minimal side effects and short treatment sessions"
+      ],
+      "number_of_hospitals_having_this": 6
+    },
+    {
+      "id": 19,
+      "technology": "Robot-Assisted Rehabilitation",
+      "image": "https://post.healthline.com/wp-content/uploads/2022/08/robot-therapy-stroke-732x549-thumbnail-732x549.jpg",
+      "used_in_which": ["Stroke", "Spinal Cord Injuries"],
+      "technology_description": "Robot-Assisted Rehabilitation involves the use of robotic devices to assist patients in regaining movement and function after stroke or spinal cord injuries. These devices provide repetitive and controlled movements to facilitate recovery.",
+      "avg_cost": 4000,
+      "features": [
+        "Customizable rehabilitation programs for individual needs",
+        "Promotes neuroplasticity and motor recovery"
+      ],
+      "number_of_hospitals_having_this": 15
+    },
+    {
+      "id": 20,
+      "technology": "Virtual Surgical Planning (VSP)",
+      "image": "https://i0.wp.com/pocketdentistry.com/wp-content/uploads/2021/03/482096_1_En_9_Fig4_HTML.jpg?w=960",
+      "used_in_which": ["Orthopedic Surgery", "Maxillofacial Surgery"],
+      "technology_description": "VSP uses advanced imaging techniques and computer modeling to plan complex surgeries in orthopedic and maxillofacial fields. It allows surgeons to visualize the procedure and optimize surgical outcomes before the actual operation.",
+      "avg_cost": 7000,
+      "features": [
+        "Enhances surgical accuracy and precision",
+        "Reduces surgery time and risk of complications"
+      ],
+      "number_of_hospitals_having_this": 10
     }
   ],
   "blog": [
     {
       "id": 1,
       "category": "surgery",
-      "image": "https:abc.jpeg",
-      "title": "how do you prepare for minimally invasive spine surgery?",
-      "description": "In this post we will talk about how to properly prepare for a spinal intervention",
-      "side_description": "some extra information about this title"
+      "image": "https://images.ctfassets.net/yixw23k2v6vo/spu_wysiwyg_fid41286_asset/19e0e147cbc96cf975917514a726f8bf/minimally_invasive_spine_surgery_endoscopic_123RF_109759735_ML.jpg",
+      "title": "How to Prepare for Minimally Invasive Spine Surgery?",
+      "description": "In this post, we will talk about how to properly prepare for a spinal intervention.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
     },
     {
       "id": 2,
-      "image": "https:abc.jpeg",
+      "image": "https://mindbasedhealing.org/wp-content/uploads/2017/09/chronic-disease-treatment.jpg",
       "category": "disease",
-      "title": "how do you prepare for minimally invasive spine surgery?",
-      "description": "In this post we will talk about how to properly prepare for a spinal intervention",
-      "side_description": "some extra information about this title"
+      "title": "Understanding Chronic Diseases: Causes, Symptoms, and Treatment",
+      "description": "In this blog, we will explore various chronic diseases, their causes, symptoms, and available treatments.",
+      "side_description": ""
     },
     {
       "id": 3,
-      "image": "https:abc.jpeg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVuupe9HPnTvQQM7BzBDq_h2X2OCG2N7AfbJzAX8OKObL_jgNc9ksvzbPCBOtX8tLSrs&usqp=CAU",
       "category": "new_technologies",
-      "title": "how do you prepare for minimally invasive spine surgery?",
-      "description": "In this post we will talk about how to properly prepare for a spinal intervention",
-      "side_description": "some extra information about this title"
+      "title": "Emerging Technologies in Healthcare: Shaping the Future",
+      "description": "This blog highlights the latest advancements in healthcare technologies that are shaping the future of medicine.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 4,
+      "category": "surgery",
+      "image": "https://api.parashospitals.com/uploads/2015/07/MICS-%E2%80%93-The-New-Type.jpg",
+      "title": "Minimally Invasive Heart Surgery: Advancements and Benefits",
+      "description": "Discover the advancements and benefits of minimally invasive heart surgery in this informative blog.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 5,
+      "image": "https://www.nationaljewish.org/NJH/media/img/Health%20Insights/Infographics/Diabetes-Infographic.jpg",
+      "category": "disease",
+      "title": "Managing Diabetes: Tips for a Healthy Lifestyle",
+      "description": "This blog provides practical tips for managing diabetes and adopting a healthy lifestyle.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 6,
+      "image": "https://www.analyticssteps.com/backend/media/thumbnail/859537/9491906_1602070936_Untitled-2%20(2).jpg",
+      "category": "new_technologies",
+      "title": "The Role of Artificial Intelligence in Healthcare",
+      "description": "Explore the transformative role of artificial intelligence in revolutionizing healthcare practices.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 7,
+      "category": "surgery",
+      "image": "https://blog.johnsonmemorial.org/hubfs/foot-bones.jpg",
+      "title": "Preparing for Orthopedic Surgery: What You Need to Know",
+      "description": "Learn about the essential preparations and considerations before undergoing orthopedic surgery.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 8,
+      "image": "https://www.verywellmind.com/thmb/-0CQZsFwYcyBYDNXanAu7KcudPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/forty-healthy-coping-skills-4586742_final-c5f0e5b806d64ff1a297660bab2f3eb4.png",
+      "category": "disease",
+      "title": "Coping with Mental Health Challenges: Finding Support and Resources",
+      "description": "This blog focuses on finding support and resources to cope with mental health challenges effectively.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.mindbowser.com/wp-content/uploads/2020/10/24123953/pros-vs-cons-01-2.svg",
+      "category": "new_technologies",
+      "title": "The Future of Telemedicine: Advantages and Challenges",
+      "description": "Explore the advantages and challenges of telemedicine and its potential impact on healthcare.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 10,
+      "category": "surgery",
+      "image": "https://mantadesign.com/wp-content/uploads/2021/03/futureRoboticSurgeryHero3-1024x489.jpg",
+      "title": "Advancements in Robotic Surgery: Precision and Innovation",
+      "description": "Discover the precision and innovation brought by advancements in robotic surgery techniques.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 11,
+      "image": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/8610-allergies",
+      "category": "disease",
+      "title": "Allergies: Identifying Triggers and Managing Symptoms",
+      "description": "This blog provides insights into identifying allergy triggers and managing allergy symptoms effectively.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 12,
+      "image": "https://www.thelancet.com/cms/attachment/469290d8-cdcd-49a7-ac17-4f4919c4958b/gr1.jpg",
+      "category": "new_technologies",
+      "title": "The Impact of Blockchain in Healthcare: Data Security and Interoperability",
+      "description": "Learn how blockchain technology is enhancing data security and interoperability in healthcare.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 13,
+      "category": "surgery",
+      "image": "https://www.pacificneuroscienceinstitute.org/brain-tumor/wp-content/uploads/sites/2/2020/02/14-190_SAINT-JOHNS-KEYHOLE-SURGERY_BRAIN-TUMOR-REMOVAL_00_00_27_01_Still017-1920x600.jpg",
+      "title": "Minimally Invasive Neurosurgery: Breakthroughs in Brain Treatment",
+      "description": "Discover the breakthroughs in brain treatment with minimally invasive neurosurgery.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 14,
+      "image": "https://www.verywellhealth.com/thmb/3AE81rOvHoc561JWjz4omNdZoMo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ways-to-prevent-congestive-heart-failure-3859866-Final-618f35bb132a421cbaf6f49a4077c9de.jpg",
+      "category": "disease",
+      "title": "Preventing Cardiovascular Diseases: Lifestyle Changes and Screening",
+      "description": "This blog highlights the importance of lifestyle changes and early screening in preventing cardiovascular diseases.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 15,
+      "image": "https://pub.mdpi-res.com/pharmaceutics/pharmaceutics-15-00313/article_deploy/html/images/pharmaceutics-15-00313-g001.png?1673964618",
+      "category": "new_technologies",
+      "title": "The Potential of 3D Printing in Medicine: Customization and Prosthetics",
+      "description": "Explore the potential of 3D printing in medicine, from customizations to prosthetics.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 16,
+      "category": "surgery",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-020-1117-8/MediaObjects/41591_2020_1117_Fig1_HTML.png",
+      "title": "Understanding Bariatric Surgery: Types and Weight Loss Benefits",
+      "description": "Learn about different types of bariatric surgery and their potential benefits in weight loss.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 17,
+      "image": "https://www.frontiersin.org/files/Articles/779328/fpubh-09-779328-HTML/image_m/fpubh-09-779328-g001.jpg",
+      "category": "disease",
+      "title": "Managing Chronic Pain: Strategies for Improved Quality of Life",
+      "description": "This blog provides effective strategies for managing chronic pain and improving overall quality of life.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 18,
+      "image": "https://mobisoftinfotech.com/resources/wp-content/uploads/2018/05/wearable_technology_healthcare_blog_mobisoft_infotech.png",
+      "category": "new_technologies",
+      "title": "The Rise of Wearable Health Devices: Monitoring and Wellness",
+      "description": "Explore how wearable health devices are revolutionizing healthcare monitoring and promoting wellness.",
+      "side_description": "Get ready to learn about the best practices for preparing yourself for minimally invasive spine surgery. Discover the benefits of this advanced surgical technique and the positive impact it can have on your quality of life."
+    },
+    {
+      "id": 19,
+      "category": "surgery",
+      "image": "https://facialcosmeticsurgery.ca/media/images/Plastic-Surgery-Singapore_ltQkubE.width-800.jpg",
+      "title": "Cosmetic Surgery: Enhancing Appearance and Confidence",
+      "description": "This blog explores various cosmetic surgery procedures and how they can positively impact an individual's self-esteem and confidence. It discusses common procedures, safety considerations, and the importance of realistic expectations.",
+      "side_description": "Discover the world of cosmetic surgery and the transformative effects it can have on one's self-image."
+    },
+    {
+      "id": 20,
+      "image": "https://www.drsanjoymandal.com/wp-content/uploads/2023/04/cancer-treatment-through-clinical-trials.jpg",
+      "category": "disease",
+      "title": "The Fight Against Cancer: Advances in Treatment and Research",
+      "description": "In this blog, we will shed light on the progress made in cancer treatment and research. From immunotherapy to targeted therapies, we will discuss cutting-edge advancements in the battle against cancer.",
+      "side_description": "Stay informed about the latest breakthroughs and innovations in cancer treatment in this comprehensive blog."
     }
   ],
+
   "contact": [
     {
       "location": "abc area , india",
