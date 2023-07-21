@@ -1336,7 +1336,7 @@
     {
       "id": 1,
       "category": "regular checkup",
-      "image": "abc.jpeg",
+      "image": "https://www.swaconhospital.com/wp-content/uploads/2019/09/34-5-reasons-why-you-need-a-regular-checkup-feat-1080x600.jpg",
       "description": "regular checkup is a common health checkup",
       "available_time": "From 2 pm to 5 pm",
       "avg_cost": 50,
@@ -1348,7 +1348,7 @@
     {
       "id": 2,
       "category": "spinal surgery , heart surgery , brain surgery",
-      "image": "abc.jpeg",
+      "image": "https://www.pennmedicine.org/-/media/images/miscellaneous/random%20generic%20photos/doctor_spine_model.ashx?mw=620&mh=408",
       "description": "regular checkup is a common health checkup",
       "available_time": "From 11 am to 2 pm",
       "avg_cost": 50,
@@ -1360,7 +1360,7 @@
     {
       "id": 3,
       "category": "emergency case",
-      "image": "abc.jpeg",
+      "image": "https://image.khaleejtimes.com/?uuid=04cb9443-1c85-432c-9034-db4b4086ad1f&function=cropresize&type=preview&source=false&q=75&crop_w=0.84722&crop_h=0.99999&x=0.07639&y=0&width=900&height=506",
       "description": "regular checkup is a common health checkup",
       "available_time": "anytime",
       "avg_cost": "depends",
