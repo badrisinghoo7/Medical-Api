@@ -1154,29 +1154,182 @@
     {
       "id": 1,
       "category": "health",
-      "image": "abc.jpeg",
-      "title": "working of heart",
-      "para_1": "30 words",
-      "para_2": "100 words",
-      "para_3": "50 words"
+      "image": "https://www.cardio.com/hs-fs/hubfs/Human%20Heart%20Anatomy.jpg?width=600&name=Human%20Heart%20Anatomy.jpg",
+      "title": "Understanding the Working of the Heart",
+      "para_1": "The heart is a vital organ that pumps blood throughout the body, delivering oxygen and nutrients to cells. It consists of four chambers - two atria and two ventricles.",
+      "para_2": "The heart's functioning involves a complex series of electrical signals and contractions. The atria receive blood and contract, pushing it into the ventricles. The ventricles then contract, pumping blood to the lungs and the rest of the body.",
+      "para_3": "Maintaining a healthy heart is crucial for overall well-being. Regular exercise, a balanced diet, and avoiding smoking are essential for heart health."
     },
     {
       "id": 2,
       "category": "disease",
-      "image": "abc.jpeg",
-      "title": "working of heart",
-      "para_1": "30 words",
-      "para_2": "100 words",
-      "para_3": "50 words"
+      "image": "https://www.verywellhealth.com/thmb/dLBLVSgvB1IrR71qP6N7wQo9lhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart-disease-symptoms-5b0d5b648e1b6e003e6a3347.png",
+      "title": "Common Heart Diseases and Their Impact",
+      "para_1": "Heart diseases encompass various conditions affecting the heart and blood vessels. These include coronary artery disease, heart failure, and arrhythmias.",
+      "para_2": "Coronary artery disease occurs when the arteries supplying blood to the heart become narrowed or blocked, leading to reduced blood flow. Heart failure refers to the heart's inability to pump blood effectively, causing fatigue and shortness of breath.",
+      "para_3": "Managing risk factors like high blood pressure and cholesterol levels can help prevent heart diseases and improve heart health."
     },
     {
-      "id": 1,
+      "id": 3,
       "category": "techniques",
-      "image": "abc.jpeg",
-      "title": "working of heart",
-      "para_1": "30 words",
-      "para_2": "100 words",
-      "para_3": "50 words"
+      "image": "https://www.verywellhealth.com/thmb/irZnrSQ4o012PQUb1lGv3ir_FgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-a-heart-attack-is-diagnosed-4685099_final-f933f84c1fb14203a7098742d70e011c.png",
+      "title": "Diagnostic Techniques for Heart Conditions",
+      "para_1": "Various diagnostic methods aid in assessing heart health and identifying heart conditions. One common technique is an electrocardiogram (ECG or EKG), which records the heart's electrical activity.",
+      "para_2": "Another technique is echocardiography, which uses sound waves to create images of the heart's structure and function. Stress tests help evaluate the heart's performance during physical activity.",
+      "para_3": "Early detection and accurate diagnosis play a crucial role in guiding effective treatment for heart conditions."
+    },
+    {
+      "id": 4,
+      "category": "health",
+      "image": "https://api.parashospitals.com/uploads/2015/07/MICS-%E2%80%93-The-New-Type.jpg",
+      "title": "The Importance of a Healthy Lifestyle for Heart Health",
+      "para_1": "Adopting a healthy lifestyle is key to maintaining a healthy heart. A balanced diet rich in fruits, vegetables, whole grains, and lean proteins can promote heart health.",
+      "para_2": "Regular physical activity helps improve cardiovascular fitness and reduces the risk of heart diseases. Managing stress and getting enough sleep also contribute to heart health.",
+      "para_3": "Avoiding smoking and limiting alcohol consumption are essential for preventing heart diseases and maintaining overall well-being."
+    },
+    {
+      "id": 5,
+      "category": "disease",
+      "image": "https://www.breathewellbeing.in/blog/wp-content/uploads/2021/05/tipstopreventtype2diabetes.jpg",
+      "title": "Congenital Heart Defects: Causes and Treatments",
+      "para_1": "Congenital heart defects are structural abnormalities present at birth. These defects can affect the heart's walls, valves, or blood vessels, impacting blood flow.",
+      "para_2": "Some defects may cause no symptoms and resolve on their own, while others may require medical intervention. Treatments for congenital heart defects can include medication, catheter-based procedures, or surgery.",
+      "para_3": "Early diagnosis and appropriate management can improve the quality of life for individuals with congenital heart defects."
+    },
+    {
+      "id": 6,
+      "category": "techniques",
+      "image": "https://imageio.forbes.com/blogs-images/bernardmarr/files/2018/07/AdobeStock_157266517-1200x640.jpeg?format=jpg&width=1200",
+      "title": "Cardiac Catheterization: A Minimally Invasive Procedure",
+      "para_1": "Cardiac catheterization is a minimally invasive procedure used to diagnose and treat heart conditions. During the procedure, a thin tube (catheter) is inserted into a blood vessel and guided to the heart.",
+      "para_2": "Cardiac catheterization can help identify blockages, measure blood pressure, and assess the heart's overall function. It also allows for interventions like angioplasty to open narrowed arteries.",
+      "para_3": "As a less invasive alternative to surgery, cardiac catheterization offers quicker recovery times and reduced risks for patients."
+    },
+    {
+      "id": 7,
+      "category": "health",
+      "image": "https://ochsner-craft.s3.amazonaws.com/blog/articles/_930x524_crop_center-center_75_none/heart.jpg",
+      "title": "Maintaining a Heart-Healthy Diet",
+      "para_1": "A heart-healthy diet plays a vital role in preventing heart diseases. Emphasize whole, unprocessed foods like fruits, vegetables, whole grains, nuts, and seeds in your diet.",
+      "para_2": "Limit saturated and trans fats, found in fried foods and processed snacks, and opt for healthier fats like those in olive oil and avocados. Reduce salt intake to support healthy blood pressure levels.",
+      "para_3": "By making mindful choices in your diet, you can support heart health and reduce the risk of heart diseases."
+    },
+    {
+      "id": 8,
+      "category": "disease",
+      "image": "https://servier.com/wp-content/uploads/2022/10/servier-insight-hypertension-symptoms.jpg",
+      "title": "Hypertension: The Silent Killer",
+      "para_1": "Hypertension, or high blood pressure, is often referred to as the silent killer due to its asymptomatic nature. Uncontrolled hypertension can damage blood vessels and increase the risk of heart diseases.",
+      "para_2": "Lifestyle modifications like a heart-healthy diet, regular exercise, and stress management are essential for managing hypertension. Medications may also be prescribed to control blood pressure.",
+      "para_3": "Regular blood pressure monitoring and adherence to treatment plans are crucial for preventing complications related to hypertension."
+    },
+    {
+      "id": 9,
+      "category": "techniques",
+      "image": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/16897-bypass-surgery",
+      "title": "Coronary Artery Bypass Grafting (CABG)",
+      "para_1": "Coronary artery bypass grafting (CABG) is a surgical procedure used to improve blood flow to the heart muscle. It involves bypassing blocked or narrowed coronary arteries using grafts.",
+      "para_2": "During CABG, a healthy blood vessel from another part of the body, such as the leg or chest, is grafted to the coronary artery, allowing blood to flow around the blockage.",
+      "para_3": "CABG can relieve chest pain, improve heart function, and reduce the risk of heart attacks for individuals with severe coronary artery disease."
+    },
+    {
+      "id": 10,
+      "category": "health",
+      "image": "https://static.webareacontrol.com/OptimizeCommonImage/16920215523benefits-of-exercise-for-your-heart-1-gen.jpg",
+      "title": "Exercise and Heart Health: Benefits and Recommendations",
+      "para_1": "Regular physical activity is a cornerstone of heart health. Exercise helps improve cardiovascular fitness, lower blood pressure, and maintain a healthy weight.",
+      "para_2": "Aerobic exercises like walking, jogging, and cycling are great for the heart. Strength training can also enhance overall cardiovascular health and muscular strength.",
+      "para_3": "Aim for at least 150 minutes of moderate-intensity exercise or 75 minutes of vigorous-intensity exercise per week to support heart health."
+    },
+    {
+      "id": 11,
+      "category": "disease",
+      "image": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/16749-arrhythmia-illustration",
+      "title": "Arrhythmias: Understanding Irregular Heartbeats",
+      "para_1": "Arrhythmias are irregular heart rhythms that can lead to palpitations, dizziness, or fainting. They occur when the heart's electrical signals are disrupted.",
+      "para_2": "Some arrhythmias are harmless, while others can be life-threatening. Diagnostic tests like an electrocardiogram (ECG) and holter monitor help identify and monitor arrhythmias.",
+      "para_3": "Treatment for arrhythmias may include medications, lifestyle changes, or procedures like catheter ablation to correct the heart's electrical pathways."
+    },
+    {
+      "id": 12,
+      "category": "techniques",
+      "image": "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2016/06/01/09/10/mcdc_heart-transplant-surgery-8col.jpg",
+      "title": "Heart Transplant: A Life-Saving Procedure",
+      "para_1": "Heart transplant is a life-saving procedure for individuals with end-stage heart failure. It involves replacing a damaged or failing heart with a healthy donor heart.",
+      "para_2": "Heart transplant candidates undergo extensive evaluations to ensure they are suitable for the procedure. Post-transplant, patients require lifelong immunosuppressive medications to prevent organ rejection.",
+      "para_3": "Heart transplantation offers hope for improved quality of life and increased survival for eligible patients with severe heart conditions."
+    },
+    {
+      "id": 13,
+      "category": "health",
+      "image": "https://hsiassetstorage.sfo2.digitaloceanspaces.com/assets/images/blog/9-Ways-to-Reduce-Stress-for-Improved-Heart-Health.jpg",
+      "title": "The Role of Stress in Heart Health",
+      "para_1": "Chronic stress can negatively impact heart health. It can lead to increased blood pressure, inflammation, and unhealthy coping mechanisms like overeating or smoking.",
+      "para_2": "Practicing stress-reduction techniques like meditation, yoga, or deep breathing can help manage stress and support heart health. Regular physical activity also aids in stress management.",
+      "para_3": "Prioritizing self-care and seeking support from loved ones can further contribute to better heart health and overall well-being."
+    },
+    {
+      "id": 14,
+      "category": "disease",
+      "image": "https://www.cdc.gov/mmwr/images/visual-abstracts/mm6805a2_Heart-Attack-Awareness-VA1200x675.jpg",
+      "title": "Heart Attack: Recognizing Symptoms and Seeking Help",
+      "para_1": "A heart attack occurs when blood flow to a part of the heart muscle is blocked, leading to tissue damage. Common symptoms include chest pain, shortness of breath, and lightheadedness.",
+      "para_2": "If you suspect a heart attack, seek immediate medical attention. Prompt treatment can minimize heart damage and improve outcomes.",
+      "para_3": "Adopting heart-healthy habits and managing risk factors like high cholesterol and diabetes can help reduce the risk of heart attacks."
+    },
+    {
+      "id": 15,
+      "category": "techniques",
+      "image": "https://www.verywellhealth.com/thmb/YIwSPRhBuF0_5uCDv6H_uV4Zvqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pacemakers-what-you-should-know-1745231_v2-da71dbec46b345308dd2fcbb65cc638b.png",
+      "title": "Pacemakers: Regulating Heart Rhythms",
+      "para_1": "Pacemakers are small devices implanted under the skin to regulate abnormal heart rhythms. They use electrical signals to pace the heart and restore a normal rhythm.",
+      "para_2": "Pacemakers are commonly used for bradycardia, a condition where the heart beats too slowly. They can also treat certain arrhythmias and heart failure.",
+      "para_3": "Pacemakers can significantly improve quality of life for individuals with irregular heartbeats and prevent life-threatening complications."
+    },
+    {
+      "id": 16,
+      "category": "health",
+      "image": "https://www.fchtexas.com/wp-content/uploads/2022/09/controling_cholestorol-1024x700.png",
+      "title": "Managing Cholesterol Levels for Heart Health",
+      "para_1": "High cholesterol levels can contribute to the formation of plaque in the arteries, increasing the risk of heart diseases. LDL cholesterol is often referred to as 'bad' cholesterol.",
+      "para_2": "Eating a heart-healthy diet, exercising regularly, and maintaining a healthy weight can help manage cholesterol levels. Medications like statins may be prescribed to lower cholesterol.",
+      "para_3": "Regular cholesterol screenings and adherence to treatment plans are essential for preventing cardiovascular complications."
+    },
+    {
+      "id": 17,
+      "category": "disease",
+      "image": "https://www.health.com/thmb/tI-LqcPqQChAMEfU5rV6W6flVUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Stroke-Heart-Syndrome-fbd89ec8a8b843c7ab38e3f8b083b0cf.jpg",
+      "title": "Stroke and Heart Health",
+      "para_1": "A stroke occurs when blood flow to the brain is disrupted, leading to brain cell damage. High blood pressure and other heart diseases are major risk factors for stroke.",
+      "para_2": "Recognizing stroke symptoms like sudden numbness, confusion, or difficulty speaking is crucial for seeking immediate medical attention.",
+      "para_3": "Preventing and managing heart conditions through a heart-healthy lifestyle can also lower the risk of stroke."
+    },
+    {
+      "id": 18,
+      "category": "techniques",
+      "image": "https://medicine.umich.edu/sites/default/files/cs-coronary-angioplasty.jpg",
+      "title": "Angioplasty: Opening Blocked Arteries",
+      "para_1": "Angioplasty is a minimally invasive procedure used to open blocked or narrowed arteries. A tiny balloon is inflated inside the artery to widen the passage.",
+      "para_2": "Often performed for coronary artery disease, angioplasty helps improve blood flow to the heart and relieve chest pain. Stents may be placed during the procedure to keep the artery open.",
+      "para_3": "Angioplasty can be a life-saving intervention for individuals with coronary artery disease and improve their quality of life."
+    },
+    {
+      "id": 19,
+      "category": "health",
+      "image": "https://www.heart.org/-/media/Images/Health-Topics/High-Blood-Pressure/Health-threats-diagram.png",
+      "title": "Blood Pressure and Heart Health",
+      "para_1": "Blood pressure measures the force of blood against artery walls. High blood pressure, or hypertension, strains the heart and blood vessels, increasing the risk of heart diseases.",
+      "para_2": "A healthy lifestyle, including a heart-healthy diet and regular exercise, can help maintain normal blood pressure levels. Medications may be prescribed to control hypertension.",
+      "para_3": "Monitoring blood pressure regularly and managing stress are vital for preventing complications associated with high blood pressure."
+    },
+    {
+      "id": 20,
+      "category": "disease",
+      "image": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/17069-congestive-heart-failure-illustration",
+      "title": "Heart Failure: Causes and Management",
+      "para_1": "Heart failure occurs when the heart's pumping ability is compromised, leading to inadequate blood circulation. It can result from various heart conditions or damage to the heart muscle.",
+      "para_2": "Symptoms of heart failure include fatigue, swelling, and shortness of breath. Lifestyle changes, medications, and devices like pacemakers can help manage heart failure.",
+      "para_3": "Early diagnosis and comprehensive heart failure management plans can improve quality of life and slow disease progression for individuals with heart failure."
     }
   ],
   "appointment": [
